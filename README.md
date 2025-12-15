@@ -1,3 +1,13 @@
+## Notice
+
+This repository is a fork of the original ESP-FC firmware by rtlopez.
+
+Original repository:
+https://github.com/rtlopez/esp-fc
+
+It is used in this project for initial testing and validation of custom
+mini-drone hardware .
+
 # ESP-FC Flight Controller
 
 The mini, DIY, Low cost, ESP32 based, high performance flight controller for hobbyists.
